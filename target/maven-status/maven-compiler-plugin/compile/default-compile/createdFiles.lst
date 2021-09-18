@@ -1,0 +1,10 @@
+dtos\RenameMeDTO.class
+errorhandling\GenericExceptionMapper.class
+rest\RenameMeResource.class
+entities\RenameMe.class
+facades\FacadeExample.class
+utils\Utility.class
+rest\ApplicationConfig.class
+facades\Populator.class
+errorhandling\ExceptionDTO.class
+utils\EMF_Creator.class
